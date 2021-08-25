@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "**Читать на других языках: [Русский](README.md), [Українська](README.ua.md).**",
   "main": "index.js",
-  "homepage": "https://evg50.github.io/goit-js-hw-10-food-service2",
+  "homepage1": "https://evg50.github.io/goit-js-hw-10-food-service2",
+  "homepage": "https://github.com/evg50/goit-js-hw-10-food-service2",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-10-food-service2/"
