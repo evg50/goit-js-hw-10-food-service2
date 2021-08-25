@@ -13,9 +13,8 @@
     "url": "git+https://github.com/evg50/parcel-project-template.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Evg",
   "license": "ISC",
-
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
     "parcel-plugin-handlebars-precompile": "^1.0.2",
